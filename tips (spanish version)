@@ -1,14 +1,18 @@
-google.com/students
-
 == Pasantias (pagas) ===
-EEUU, Europa o canada. entre 12 y 14 semanas.
+------------------------------------------------------------------------------------------------------------------------------
+Donde postularse: google.com/students
+------------------------------------------------------------------------------------------------------------------------------
+Lugar y duracion:  EEUU, Europa o canada. entre 12 y 14 semanas.
+------------------------------------------------------------------------------------------------------------------------------
+Requerimientos minimos: 
 
 Bachelor degree in computer science or related (fisica, mate, etc)
+equivalente a bachelor's degree -> licenciatura o ingenieria
 
 experiencia en data structures/algorythms por experiencia, universidad, proyectos personales en github, investigacion etc
 
 Con cosas de google, lo mejor es anotarse lo mas pronto posible.
-
+------------------------------------------------------------------------------------------------------------------------------
 Tips CV:
 intended graduation month/ year
 relevant coursework a los requerimientos
@@ -17,19 +21,17 @@ extracurriculars to gain technical experience (eventos de divulgacion, ayudante 
 coding proficency and experience
 UNA PAGINA
 NO incluir info personal (foto, edad, estado civil etc NO)
-NO EXAGERAR. Si digo soy experto en C++, me van a preguntar cosas de C++
-
-
+NO EXAGERAR. Si digo soy experto en C++, me van a preguntar temas MUY avanzados de C++ (en Google sobran expertos para evaluarte)
+------------------------------------------------------------------------------------------------------------------------------
 Preparing for interviews:
 1) email del recruiter (si fui seleccionado) a encuesta y "coding sample"
 2) dos entrevistas tecnicas
 3) "host match" interactuar con managers para ingresar en un equipo especifico de google. Entrevistas por videollamada/ llamada
 4) revision final de papeles y oferta
-
-
+------------------------------------------------------------------------------------------------------------------------------
 Snapshot Survey / cuestionario / encuesta 
 
-Coding sample : 90 minutos para resolver unos problemas. Se puede practicar antes. REsponder a los 7 dias de recibidos los mails
+Coding sample : 90 minutos para resolver unos problemas. Se puede practicar antes. Responder a los 7 dias de recibidos los mails
 
 Invitacion para entrevistas (telefonicas)  :
 - 45 min c/u 
@@ -41,24 +43,25 @@ Ya no hay mas preguntas de logica, son solo preguntas de algoritmos
 
 Topics:
 java, c++, python, javascript, go, objetos+metodos
-recorrido grafos, recursion, listas, sets, arboles, hashes, stacks, queues, etc 
+recorrido grafos, recursion, listas, sets, arboles, hashes, stacks, queues, etc
+
+Si fallo la entrevista, puedo volver a aplicar dentro de 6 meses
+------------------------------------------------------------------------------------------------------------------------------
+Paginas para practicar:
 
 g.co/buildyourfuture 
 leetcode.com <- la mejor  
 pramp.com
 life at google youtube 
+------------------------------------------------------------------------------------------------------------------------------
+Libros para leer:
 
 programming interviews exposed 
 cracking the code interview 
 landing your next job 
 elements of programming interviews
 the algorithm design manual 
-
-
-equivalente a bachelor's degree -> licenciatura o ingenieria 
-
-Si fallo la entrevista, puedo volver a aplicar dentro de 6 meses
-
+------------------------------------------------------------------------------------------------------------------------------
 Pasantias de invierno tiene menos cupo (las de verano aca) 
 Pasantias de verano en EEUU hay mas cupo (las de invierno aca)
 
